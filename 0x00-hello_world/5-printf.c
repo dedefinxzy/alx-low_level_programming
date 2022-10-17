@@ -2,5 +2,11 @@
 
 /**
  * main - Entry point
- *
- * Description: with proper grammar but the outcomr,
+ * Return: always 0 (Success)
+ */
+
+int main(void)
+{
+	puts("\"Programming is like building a multilingual puzzle");
+	return (0);
+}
