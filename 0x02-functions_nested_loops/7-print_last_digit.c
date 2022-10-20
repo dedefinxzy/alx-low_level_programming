@@ -1,13 +1,13 @@
 #include "main.h"
 
 /*
- * print_last_digit - print the last digit of arg
- * @c: int to be evaluated
+ * print_last_digit - Prints the last digit of a number.
+ * @n: int to be evaluated.
  *
- * Return: last digit of arg
+ * Return: Value of the last digit.
  */
 
-int print_last_digit(int c)
+int print_last_digit(int n)
 {
 	int n;
 
